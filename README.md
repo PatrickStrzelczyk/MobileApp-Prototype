@@ -33,6 +33,7 @@ As **Project Manager**, I coordinated team efforts, ensured deadlines were met, 
 
 ## Links 
 [Figma Prototype Link]([https://www.figma.com/](https://www.figma.com/proto/ptjST4NZ5PVzQqq1xhQvYx/Untitled?page-id=0%3A1&node-id=0-3495&viewport=302%2C279%2C0.05&t=bqvkBNPZ6J66uf0r-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=0%3A4668&classId=cd5a74d2-3e65-47d3-8eb6-15e20d4b30d1&assignmentId=3c4b9706-f660-4f2b-a508-d5c2901a205d&submissionId=922a4ec9-8706-9200-32d7-6e3b0517897e)) 
+[Final Report/Sumarry Link](https://www.figma.com/design/CHttczO1EdAI0ut4ufok4J/Final-Report-Summary-Digital-Product-1?node-id=1-3669&t=Qnpsn6hlkiPMvjUt-0)
 
 
 ---
